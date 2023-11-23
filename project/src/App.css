@@ -1,0 +1,12 @@
+.container{
+  height: Auto;
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+}
+.cards{
+  height: 15rem;
+  width: 20%;
+ 
+  border: 1px solid black;
+}
